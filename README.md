@@ -1,6 +1,11 @@
 # Project Name: Web APi Persons MediatR
 # Introduccion 
 TODO: Principalmente se encargar de la creación, eliminacion y búsqueda de Personas. 
+## Base de datos
+Base de datos en mysql
+Nombre de la base de datos: test
+Nombre de la tabla: persons
+descargar el archivo persons.rar y crear un esquema test.
 
 ## Configuración de entorno.
 
